@@ -48,6 +48,9 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Додаток для вивчення слів англійської мови</title>
+     <header>
+     <h1>Вивчення слів англійської мови</h1>
+ </header>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -111,10 +114,6 @@
     </style>
 </head>
 <body>
-
-    <header>
-        <h1>Вивчення слів англійської мови</h1>
-    </header>
 
     <section id="learning-section">
         <h2>Вправи для вивчення слів</h2>
